@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.4
 - name: be-newzik-temp-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.21
+  version: 0.0.22
 - name: be-static-data-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.59
